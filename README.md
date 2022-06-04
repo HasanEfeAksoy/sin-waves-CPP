@@ -1,8 +1,8 @@
 # sin-waves-CPP
-sinus waves with SFML<br /><br />
-you can change lambda, amplitude and speed.<br /><br />
+<b>sinus waves with SFML</b><br /><br />
+<i>*you can change lambda, amplitude and speed.</i><br /><br />
 
-CONTROLS:<br /><br />
+<b>CONTROLS:</b><br /><br />
 
 q => increase lambda<br />
 w => reduce lambda<br />
@@ -12,5 +12,9 @@ t => increase speed<br />
 y => reduce speed<br />
 a => reload values<br />
 
-<b>How does it look</b><br />
+<br />
+<br />
+<br />
+
+<b>How does it look</b><br /><br />
 ![Screenshot](sinwave.png)
