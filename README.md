@@ -13,4 +13,4 @@ y => reduce speed<br />
 a => reload values<br />
 
 <b>How does it look</b><br />
-![Screenshot](screenshot.png)
+![Screenshot](sinwave.png)
