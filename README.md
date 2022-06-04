@@ -2,7 +2,7 @@
 <b>sinus waves with SFML</b><br /><br />
 <i>*you can change lambda, amplitude and speed.</i><br /><br />
 
-<b>CONTROLS:</b><br /><br />
+<u><b>CONTROLS:</b></u><br /><br />
 
 q => increase lambda<br />
 w => reduce lambda<br />
@@ -16,5 +16,5 @@ a => reload values<br />
 <br />
 <br />
 
-<b>How does it look</b><br /><br />
+<u><b>HOW DOES IT LOOK:</b></u><br /><br />
 ![Screenshot](sinwave.png)
