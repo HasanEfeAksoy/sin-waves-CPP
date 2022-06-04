@@ -11,3 +11,7 @@ r => reduce -amplitude<br />
 t => increase speed<br />
 y => reduce speed<br />
 a => reload values<br />
+
+
+<b>GUI</b>
+<img src="D:/Klasörüm/Benim Dosyalar/Photos/sinwave.png" />
