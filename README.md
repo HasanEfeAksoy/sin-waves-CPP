@@ -12,6 +12,5 @@ t => increase speed<br />
 y => reduce speed<br />
 a => reload values<br />
 
-
-<b>GUI</b>
-<img src="D:/Klasörüm/Benim Dosyalar/Photos/sinwave.png" />
+<b>How does it look</b><br />
+![Screenshot](screenshot.png)
